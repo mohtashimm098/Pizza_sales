@@ -61,6 +61,4 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 
 * 🧀 **Brie Carre Pizza** also has the **minimum total orders**
 
----
 
-If you want, I’ll now **merge this directly into your main README** with the same formatting as your portfolio repo.
