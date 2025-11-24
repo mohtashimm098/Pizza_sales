@@ -7,6 +7,7 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 
 
 ## 📄 Page 1 — Sales Overview
+![Data Jobs DB GIF](/Images/HOME_page.png)
 
 
 ## 🏷️ Category Insights
