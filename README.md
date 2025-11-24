@@ -7,7 +7,7 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 
 
 ## 📄 Page 1 — Sales Overview
-![Data Jobs DB GIF](/Images/HOME_page.png)
+![Pizza dashboard page 1](/Images/Page%201.png)
 
 
 ## 🏷️ Category Insights
@@ -31,6 +31,8 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 ---
 
 ## 📄 Page 2 — Product Performance
+
+![Pizza dashboard page 1](/Images/page%202.png)
 
 ## 🥇 Top Contributors
 
@@ -61,5 +63,14 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 ### 🧾 Total Orders (Lowest)
 
 * 🧀 **Brie Carre Pizza** also has the **minimum total orders**
+
+
+
+## 🏁 Conclusion
+
+* The Classic category and Large size pizzas drive most sales.
+* Orders peak on weekends, especially Friday & Saturday evenings.
+* July and January are the strongest months for total orders.
+* Thai Chicken and Classic Deluxe pizzas are top performers, while Brie Carre is consistently the lowest across all metrics.
 
 
