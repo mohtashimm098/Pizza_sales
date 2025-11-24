@@ -65,6 +65,16 @@ This report contains **two pages**: a **Sales Overview** and a **Product Perform
 * 🧀 **Brie Carre Pizza** also has the **minimum total orders**
 
 
+## 🛠️ Skills Used
+
+* **SQL** — aggregations, date functions, ranking, % calculations
+* **Power BI** — dashboard design, visuals, modeling
+* **DAX** — custom measures, context understanding
+* **Power Query** — data cleaning & shaping
+* **Data Analysis** — trends, categories, performance insights
+* **Visualization** — KPI cards, charts, slicers, interaction
+
+
 
 ## 🏁 Conclusion
 
